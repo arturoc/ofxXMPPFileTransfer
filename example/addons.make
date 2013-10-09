@@ -1,0 +1,3 @@
+ofxXMPP
+ofxNice
+ofxXMPPFileTransfer

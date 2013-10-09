@@ -1,0 +1,6 @@
+example/obj
+example/obj/**
+example/bin/*
+!example/bin/data
+example/bin/data/settings.xml
+example/bin/data/transfers
